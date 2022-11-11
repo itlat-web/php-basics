@@ -1,0 +1,1 @@
+<?php echo 'I\'m single line of PHP code!'; // ... PHP код на одной единственной строке ?>
